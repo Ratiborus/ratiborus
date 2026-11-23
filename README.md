@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:rat.aksenov@gmail.com"><img src="https://img.shields.io/badge/Email-rat.aksenov%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/RatiborAks"><img src="https://img.shields.io/badge/Telegram-@RatiborAks-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <img src="https://img.shields.io/badge/Location-Russia-555?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Georgia-555?style=flat-square" alt="Location"/>
 </p>
 
 ---
